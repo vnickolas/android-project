@@ -105,13 +105,13 @@ header h2 {
 
 /*O DO PROFESSOR*/
 nav {
-    padding: 20px;
+    padding: 35px;
     background-color: #083040;
     box-shadow: 0px 0px 6px black;
 }
 nav a {
     text-decoration: none;
-    padding: 18px;
+    padding: 15px;
     color: #dcfdeff3;
     border-radius: 15px;
 }
